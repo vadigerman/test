@@ -1,4 +1,5 @@
-Hello, people
+Hello, people!
+Hello!
 
 1. Vadim Germanenko
 2. Yelena Silanteva
