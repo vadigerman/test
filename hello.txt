@@ -1,4 +1,4 @@
-Hello to everyone!
+Hello, World!
 
 1. Vadim Germanenko
 2. Yelena Silanteva
