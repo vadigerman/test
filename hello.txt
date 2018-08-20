@@ -1,3 +1,5 @@
-1. Hello, Vadim Germanenko
-2. Hello, Yelena Silanteva
-3. Hello, Kristaps Lipsha
+Hello to everyone!
+
+1. Vadim Germanenko
+2. Yelena Silanteva
+3. Kristaps Lipsha
