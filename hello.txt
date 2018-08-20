@@ -1,8 +1,9 @@
-Hello, people!
+Hello, people
 
 1. Vadim Germanenko
 2. Yelena Silanteva
 3. Kristaps Lipsha
 4. John Smith
+5. Bob Alice
 
 Bye
